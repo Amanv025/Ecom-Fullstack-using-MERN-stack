@@ -1,6 +1,6 @@
 # E-commerce Project
 
-This is an e-commerce application built using the MERN stack (MongoDB, Express, React, Node.js). This project is organized into three main folders: `frontend`, `backend`, and `admin`.
+This is an e-commerce application built using the MERN stack (MongoDB, Express, React, Node.js,tailwind css and jwt authentication). This project is organized into three main folders: `frontend`, `backend`, and `admin`.
 
 ## Project Structure
 ecommerce-project/
